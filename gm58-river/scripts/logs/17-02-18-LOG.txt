@@ -1,0 +1,11 @@
+02/18/2017 - 18:02:44 - admin - Add New Stand Location 'Woodlands | number=23 |area=4000 | Price=19000 |deposit=1900 |  =200 |months=24 
+02/18/2017 - 18:02:32 - admin - Deposit Payment Amount=1000 |Stand = 661
+02/18/2017 - 18:02:47 - admin - Deposit Payment Amount=1000 |Stand = 661
+02/18/2017 - 18:02:23 - admin - Deposit Payment Amount=900 |Stand = 661
+02/18/2017 - 18:02:53 - admin - Interest Required for stand 23
+02/18/2017 - 18:02:53 - admin - Payment Amount=1010 |Stand = 23
+02/18/2017 - 18:02:30 - admin - Add New Stand Location 'Woodlands | number=555 |area=5000 | Price=10000 |deposit=1000 |  =200 |months=24 
+02/18/2017 - 18:02:37 - admin - Deposit Payment Amount=340 |Stand = 662
+02/18/2017 - 18:02:20 - admin - Payment Amount=1500 |Stand = 555
+02/18/2017 - 18:02:00 - admin - Payment Amount=150 |Stand = 555
+02/18/2017 - 18:02:31 - admin - Payment Amount=200 |Stand = 555
