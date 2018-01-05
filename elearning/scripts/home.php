@@ -1,0 +1,9 @@
+<br>
+<br>
+<br>
+<br>
+<a href="../guide.docx"><h3>Download Guide</h3></a>
+<br>
+<br>
+<br>
+<h4>About e-Schools Software Solution TRIAL VERSION</h4><div style="margin-left: 2em;"></div><p>E-Schools Software Solution is a student driven computerized web based enhanced system. E-Schools Software Solution will be open to major school stakeholders namely the teaching staff, the school head and most importantly the student and guardians. E-Schools Software Solution will allow teachers to upload teaching materials (Word, PDF and internet links) which will be accessed by the targeted student. E-Schools Software Solution has what we call SMART attendance. SMART attendance is feature which enables the class teacher to mark student daily register online. E-Schools Software Solution will see the introduction of an&nbsp;<a href="https://www.facebook.com/divinedevelopers4" target="_blank" title="nesto">online student report card</a><u></u>. Through its automated grading system E-Schools Software Solution will reduce teacher hours in the production of term reports as the result processing will be at a click of a button. E-Schools Software Solution provides the student with learning opportunities like never before. Through the automated forum students can post questions and interact in a controlled environment. Full implementation of E-Schools Software Solution will see introduction of SMART student ID cards. With which students will be uniquely identified. As part of E-Schools Software Solution will also design the school website as part of the package, if it doesn’t have one &nbsp;already. E-Schools Software Solution will provide the school head with unparalleled control over each and every school activity
